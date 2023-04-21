@@ -7,12 +7,15 @@ menu:
         # - name: Contact
         #   url: /contact/
         #   weight: 30
-        - name: Articles
-          url: /articles/
-          weight: 20
-        # - name: Projects
-        #   url: /projects/
-        #   weight: 15
+
+        - name: Games
+          url: /games/
+          weight: 30
+
+        # - name: Articles
+        #   url: /articles/
+        #   weight: 20
+
         # - name: new Tab
         #   url: /newtab/
         #   weight: defines order of tabs
@@ -27,12 +30,12 @@ params:
     author: #Author's Name
 
     defaultTheme: auto
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     displayFullLangName: false
     ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
+    ShowCodeCopyButtons: false
     ShowToc: false
 
     profileMode:
@@ -40,19 +43,21 @@ params:
         enabled: true
         title: Chao Cui
         description: |
-          Hi.
+          Hi. I am an indie game developer.  
+          Glad to meet you here.
 
-        imageUrl: "/images/bush.png"
-        imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
+        imageUrl: "/images/216.png"
+        imageTitle: image
+        imageWidth: 120
+        imageHeight: 120
 
         buttons:
         #     - name: Don't click me
         #       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
     mainSections:
-      - articles
+      # - articles
+      - games
 
     socialIcons:
     #     - name: buymeacoffee
@@ -65,8 +70,8 @@ params:
       # add more social icons. find more in svg.html file
       # - name: youtube
       #   url: yoururl
-      # - name: twitter
-      #   url: yoururl
+      - name: twitter
+        url: "https://twitter.com/lunarDust_"
       # - name: facebook
       #   url: yoururl
 
@@ -88,4 +93,9 @@ pygmentsUseClasses: true
 
 minify:
     disableXML: true
+
+# markup:
+#   markup.goldmark:
+#     markup.goldmark.renderer:
+#       unsafe: true
 
