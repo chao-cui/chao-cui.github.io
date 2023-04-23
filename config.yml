@@ -61,7 +61,8 @@ params:
 
     mainSections:
       # - articles
-      # - games
+      - games
+      - toys
 
     socialIcons:
     #     - name: buymeacoffee
