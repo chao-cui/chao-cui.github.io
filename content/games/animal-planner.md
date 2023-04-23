@@ -6,6 +6,7 @@ type: page
 topic: project
 #link: "https://www.baidu.com"
 image: "/images/animal-planner/cover.png"
+weight: 1
 ---
 
 Animal Planner is a cute puzzle game with novel mechanics. 

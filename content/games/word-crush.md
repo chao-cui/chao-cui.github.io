@@ -6,6 +6,7 @@ type: page
 topic: project
 #link: "https://www.baidu.com"
 image: "/images/word-crush/cover.png"
+weight: 3
 ---
 
 Word Crush is a word puzzle game.  

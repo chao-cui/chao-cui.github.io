@@ -12,6 +12,10 @@ menu:
           url: /games/
           weight: 30
 
+        - name: Toys
+          url: /toys/
+          weight: 31
+
         # - name: Articles
         #   url: /articles/
         #   weight: 20
@@ -43,10 +47,10 @@ params:
         enabled: true
         title: Chao Cui
         description: |
-          Hi. I am an indie game developer.  
+          Hi. I make games.  
           Glad to meet you here.
 
-        imageUrl: "/images/216.png"
+        imageUrl: "/images/animal-planner/icon.png"
         imageTitle: image
         imageWidth: 120
         imageHeight: 120
@@ -57,15 +61,14 @@ params:
 
     mainSections:
       # - articles
-      - games
+      # - games
 
     socialIcons:
     #     - name: buymeacoffee
     #       url: "https://ko-fi.com/heycharlola"
     #     - name: github
     #       url: "https://github.com/charlola"
-    #     - name: linkedin
-    #       url: "https://www.linkedin.com/in/heycharlola/"
+
 
       # add more social icons. find more in svg.html file
       # - name: youtube
@@ -74,6 +77,9 @@ params:
         url: "https://twitter.com/lunarDust_"
       # - name: facebook
       #   url: yoururl
+
+      - name: linkedin
+        url: "https://www.linkedin.com/in/chao-cui-15920a273/"
 
 
     # change favicon in images folder (icon for web tab)
@@ -99,3 +105,6 @@ minify:
 #     markup.goldmark.renderer:
 #       unsafe: true
 
+# services:
+#   instagram:
+#     accessToken: xxx
