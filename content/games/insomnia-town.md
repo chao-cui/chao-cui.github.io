@@ -1,7 +1,7 @@
 ---
 title: The Insomnia Town
 dateMonthYear: April 2022
-# description:  It's a game.
+description: INTERACTIVE FICTION
 type: page
 topic: project
 #link: "https://www.baidu.com"
@@ -17,7 +17,8 @@ A sheep🐏 visits his neighbors🐻🐇🦉🐖  and help them sleep at night.
 {{< /rawhtml >}}
 ---  
 
-[The Insomnia Town on itch.io](https://lunardust.itch.io/the-insomnia-town)  
+The Insomnia Town on [itch.io](https://lunardust.itch.io/the-insomnia-town)  
 
+---
 Role: Game Design & Programming
 

@@ -1,7 +1,7 @@
 ---
 title: Dr.Mech
 dateMonthYear: April 2022
-# description:  It's a game.
+description: PUZZLE
 type: page
 topic: project
 #link: "https://www.baidu.com"
@@ -16,5 +16,6 @@ Dr.Mech is a puzzle game combines the features of Tetris and Puzzle Bobble.
 {{< /rawhtml >}}  
 ---  
 
+****
 Role: Game Design
 

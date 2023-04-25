@@ -1,7 +1,7 @@
 ---
 title: Word Crush
 dateMonthYear: April 2022
-# description:  It's a game.
+description: PUZZLE
 type: page
 topic: project
 #link: "https://www.baidu.com"
@@ -17,7 +17,8 @@ Complete the words to make a vivid picture!
 {{< /rawhtml >}}  
 ---  
 
-[Word Crush on itch.io](https://lunardust.itch.io/word-crush)  
+Word Crush on [itch.io](https://lunardust.itch.io/word-crush)  
 
+---
 Role: Creator
 

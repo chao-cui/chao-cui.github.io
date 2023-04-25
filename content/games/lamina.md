@@ -1,7 +1,7 @@
 ---
 title: Lamina
 dateMonthYear: April 2022
-# description:  It's a game.
+description: STRTEGY
 type: page
 topic: project
 #link: "https://www.baidu.com"
@@ -20,7 +20,8 @@ Lamina is a turn-based roguelike game.
 {{< /rawhtml >}}  
 ---  
 
-[Lamina on itch.io](https://yellow-attic.itch.io/lamina)  
+Lamina on [itch.io](https://yellow-attic.itch.io/lamina)  
 
+---
 Role: Game Design & Programming
 

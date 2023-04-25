@@ -1,7 +1,7 @@
 ---
 title: Ohhh Rain
 dateMonthYear: April 2022
-# description:  It's a game.
+description: ACTION
 type: page
 topic: project
 #link: "https://www.baidu.com"
@@ -18,7 +18,8 @@ Avoid dangerous raindrops and get as many coins as you can.
 {{< /rawhtml >}}  
 ---  
 
-[Ohhh Rain on itch.io](https://lunardust.itch.io/ohrain)  
+Ohhh Rain on [itch.io](https://lunardust.itch.io/ohrain)  
 
+----
 Role: Creator
 
