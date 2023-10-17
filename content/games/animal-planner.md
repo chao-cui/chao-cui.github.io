@@ -9,7 +9,7 @@ image: "/images/animal-planner/cover.png"
 weight: 1
 ---
 
-Animal Planner is a cute puzzle game with novel mechanics. 
+Animal Planner is a puzzle game about making animals happy.
 <!-- It's a game about likes & dislikes.   -->
 
 ### How to Play
@@ -24,9 +24,11 @@ Make all animals happy by satisfying their needs. (eg. A sheep 🐑 will be happ
 {{< /rawhtml >}}  
 ---  
 
+Animal Planner on [Steam](https://store.steampowered.com/app/2479960/_/)
+
 Play Animal Planner on [itch.io](https://lunardust.itch.io/animalrequests)
 
-Animal Planner has been downloaded over 100,000 times on [TapTap](https://www.taptap.cn/app/188664).
+The prototype of Animal Planner has been downloaded over 100,000 times on [TapTap](https://www.taptap.cn/app/188664).
 
 ----
 {{< rawhtml >}} 
