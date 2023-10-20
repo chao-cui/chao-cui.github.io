@@ -6,7 +6,7 @@ type: page
 topic: project
 #link: "https://www.baidu.com"
 image: "/images/insomnia-town/cover.png"
-weight: 2
+weight: 3
 ---
 
 The Insomnia Town is a short interactive fiction.
