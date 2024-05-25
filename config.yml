@@ -20,9 +20,9 @@ menu:
         #   url: /articles/
         #   weight: 20
 
-        # - name: new Tab
-        #   url: /newtab/
-        #   weight: defines order of tabs
+        - name: About Me
+          url: /about/
+          weight: 32
 
         # - name: new Tab
         #   url: /newtab/

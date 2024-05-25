@@ -1,7 +1,7 @@
 ---
 title: Animal Planner
 dateMonthYear: April 2022
-description: PUZZLE
+description: PUZZLE, ADVENTURE
 type: page
 topic: project
 #link: "https://www.baidu.com"
